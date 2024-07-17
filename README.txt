@@ -1,2 +1,2 @@
 AISA
-https://tsoiedward.github.io/AISA/
+https://www.aisafety.asia/
